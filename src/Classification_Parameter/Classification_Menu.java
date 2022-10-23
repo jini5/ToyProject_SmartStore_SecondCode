@@ -1,6 +1,5 @@
 package Classification_Parameter;
 
-import Exception.Exception;
 import Exception.InputRangeException;
 import Store.Customers;
 import Store.Main;
